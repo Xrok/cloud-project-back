@@ -31,3 +31,6 @@ src\
 - Chronologically visit the web pages of the stores registered in the database.
 - Update the price and stock of the products in the database.
 - Send the information of the products according to the category requested.
+
+#### Pending
+- Deploy on Kubernetes
