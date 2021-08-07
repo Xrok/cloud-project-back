@@ -32,5 +32,10 @@ src\
 - Update the price and stock of the products in the database.
 - Send the information of the products according to the category requested.
 
-#### Pending
-- Deploy on Kubernetes
+## Docker Image
+
+[``` xrok/unleash-backend:latest```](https://hub.docker.com/repository/docker/xrok/unleash-backend)
+
+## Kubernetes Architecture
+[Deployed with Digital Ocean 🚀](http://143.244.215.119/)
+![docker-structure](https://user-images.githubusercontent.com/28423571/128601608-f88a7b63-dc1b-485f-8664-e11e4318a578.png)
